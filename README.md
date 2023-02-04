@@ -1,2 +1,3 @@
 # michaellhalim.github.io
-My Personal Portfolio
+My Personal Portfolio link:
+https://michaellorentiushalim.github.io/myportfolio/
